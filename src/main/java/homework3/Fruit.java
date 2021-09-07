@@ -1,4 +1,5 @@
 package homework3;
 
-public class Fruit {
+public abstract class Fruit {
+    abstract float getWeight();
 }
