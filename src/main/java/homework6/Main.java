@@ -1,5 +1,5 @@
 package homework6;
-
+// Домашнее задание 6 урока
 import okhttp3.*;
 
 import java.io.IOException;
